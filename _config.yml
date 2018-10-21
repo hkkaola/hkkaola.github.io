@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 baseurl:
+=======
+baseurl:/hkkaola.github.io
+>>>>>>> 90a04f0d7cd0efb9df4324c84413900d1e7db372
 theme: jekyll-theme-leap-day

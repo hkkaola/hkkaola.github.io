@@ -40,3 +40,5 @@ comments :
     short_name :  # 填写你的 disqus id
   disqus :
       short_name :  # 填写你的 disqus id
+
+theme: jekyll-theme-leap-day
